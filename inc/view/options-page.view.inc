@@ -24,5 +24,7 @@
 		</td>
 	</tr>
 	</table>
+	
+	<?php submit_button() ?>
 </form>
 </div>
